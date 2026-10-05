@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gIMi4jqKFpE=",
+  "dgSpecHash": "iOtfd5thYws=",
   "success": true,
-  "projectFilePath": "/Users/jerettkirrene/dev/Mahjong/Server/Server.csproj",
+  "projectFilePath": "/Users/jerettkirrene/dev/Mahjong/GameService/Server.csproj",
   "expectedPackageFiles": [
     "/Users/jerettkirrene/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
     "/Users/jerettkirrene/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"

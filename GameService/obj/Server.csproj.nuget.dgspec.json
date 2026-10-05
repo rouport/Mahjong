@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jerettkirrene/dev/Mahjong/Server/Server.csproj": {}
+    "/Users/jerettkirrene/dev/Mahjong/GameService/Server.csproj": {}
   },
   "projects": {
-    "/Users/jerettkirrene/dev/Mahjong/Server/Server.csproj": {
+    "/Users/jerettkirrene/dev/Mahjong/GameService/Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jerettkirrene/dev/Mahjong/Server/Server.csproj",
+        "projectUniqueName": "/Users/jerettkirrene/dev/Mahjong/GameService/Server.csproj",
         "projectName": "Server",
-        "projectPath": "/Users/jerettkirrene/dev/Mahjong/Server/Server.csproj",
+        "projectPath": "/Users/jerettkirrene/dev/Mahjong/GameService/Server.csproj",
         "packagesPath": "/Users/jerettkirrene/.nuget/packages/",
-        "outputPath": "/Users/jerettkirrene/dev/Mahjong/Server/obj/",
+        "outputPath": "/Users/jerettkirrene/dev/Mahjong/GameService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jerettkirrene/.nuget/NuGet/NuGet.Config"

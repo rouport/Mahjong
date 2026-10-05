@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jerettkirrene/dev/mahjong/Server/Server.csproj",
+      "projectUniqueName": "/Users/jerettkirrene/dev/Mahjong/GameService/Server.csproj",
       "projectName": "Server",
-      "projectPath": "/Users/jerettkirrene/dev/mahjong/Server/Server.csproj",
+      "projectPath": "/Users/jerettkirrene/dev/Mahjong/GameService/Server.csproj",
       "packagesPath": "/Users/jerettkirrene/.nuget/packages/",
-      "outputPath": "/Users/jerettkirrene/dev/mahjong/Server/obj/",
+      "outputPath": "/Users/jerettkirrene/dev/Mahjong/GameService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jerettkirrene/.nuget/NuGet/NuGet.Config"

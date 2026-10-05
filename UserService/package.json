@@ -1,13 +1,37 @@
 {
+  "devDependencies": {
+    "@mikro-orm/cli": "^7.2.3",
+    "@mikro-orm/decorators": "^7.2.3",
+    "@mikro-orm/migrations": "^7.2.3",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.4",
+    "reflect-metadata": "^0.2.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  },
   "name": "userservice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "@mikro-orm/core": "^7.2.3",
+    "@mikro-orm/postgresql": "^7.2.3",
+    "approve": "^0.0.12",
+    "express": "^5.2.1",
+    "fastify": "^5.12.5",
+    "fsevents": "^2.3.3",
+    "undici-types": "^8.9.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module",
+  "allowScripts": {
+    "esbuild@0.28.2": true,
+    "fsevents@2.3.3": true
+  }
 }
