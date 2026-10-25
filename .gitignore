@@ -7,9 +7,12 @@
 /bazel-out
 
 # Node
-/node_modules
-npm-debug.log
-yarn-error.log
+/*/node_modules
+/*/npm-debug.log
+/*/yarn-error.log
+
+# UserServiceMigration
+/*/src/migrations
 
 # IDEs and editors
 .idea/
@@ -42,3 +45,4 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+UserService/.env
